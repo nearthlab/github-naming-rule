@@ -16,6 +16,8 @@ Specification for Nearthlab Git Repository Naming.
 영석 : ...
 ```
 
+![혼란해](./img/honranhae.jpg)
+
 프로젝트를 생성할 때 저장소 이름에 대한 일관성이 없어, 저장소를 찾거나 정렬하기 어렵습니다. 따라서, 신규 입사자나, 본인이 관여하지 않은 Repository의 코드를 참고하고자 할 때, 다소 혼란을 겪을 수 있습니다.
 
 ## 제안
